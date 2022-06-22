@@ -17,8 +17,8 @@ Global usings were added to RzError.csproj
 Those same usings were removed from Pages/Test.razor.cs
 
 ```
+using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
-using Microsoft.AspNetCore.Components.Web.Virtualization;
 using Microsoft.JSInterop;
 using Radzen;
 using Radzen.Blazor;
